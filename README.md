@@ -1,5 +1,5 @@
 # Blog Application with Authentication & Authorization  
-**Technologies Used:** Java, Spring Boot, MySQL, Thymeleaf, Spring Security,Hibernate
+**Technologies Used:** Java, Spring Boot, MySQL, Thymeleaf, Spring Security, Hibernate
 
 - **🔒 Authentication & Authorization**: Implemented user authentication and role-based authorization, allowing users to register, log in,logout , and manage their accounts securely.
 - **📝 User-generated Content**: Users can create posts and comment on their own posts, as well as engage in commenting on other users’ posts.
