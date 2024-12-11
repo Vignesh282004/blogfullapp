@@ -41,8 +41,27 @@
 
 ---
 # Screenshots
-1. Home Page
-
-![Home Page](https://github.com/Vignesh282004/weather-sky/blob/main/weatherftd/src/main/resources/static/images/clear.png)
+1. Resgister Page
+![Home Page](https://github.com/Vignesh282004/blogfullapp/blob/main/Blog-App-Full/src/main/resources/static/images/register.png)
+2. Login Page
+![Home Page](https://github.com/Vignesh282004/blogfullapp/blob/main/Blog-App-Full/src/main/resources/static/images/login.png)
+3.create post
+![Home Page](https://github.com/Vignesh282004/blogfullapp/blob/main/Blog-App-Full/src/main/resources/static/images/createpost.png)
+4.post crated
+![Home Page](https://github.com/Vignesh282004/blogfullapp/blob/main/Blog-App-Full/src/main/resources/static/images/postcreated.png)
+5.Error Validation
+![Home Page](https://github.com/Vignesh282004/blogfullapp/blob/main/Blog-App-Full/src/main/resources/static/images/validation.png)
+6.ALl posts of a Particular User
+![Home Page](https://github.com/Vignesh282004/blogfullapp/blob/main/Blog-App-Full/src/main/resources/static/images/allpostofauser.png)
+7.Add Comment to a Post
+![Home Page](https://github.com/Vignesh282004/blogfullapp/blob/main/Blog-App-Full/src/main/resources/static/images/addcomment.png)
+8.Comment Added
+![Home Page](https://github.com/Vignesh282004/blogfullapp/blob/main/Blog-App-Full/src/main/resources/static/images/commentadded.png)
+9.View Comments of A Particular Post
+![Home Page](https://github.com/Vignesh282004/blogfullapp/blob/main/Blog-App-Full/src/main/resources/static/images/commentsofapost.png)
+10.Posts of ALL Users Together
+![Home Page](https://github.com/Vignesh282004/blogfullapp/blob/main/Blog-App-Full/src/main/resources/static/images/allposts.png)
+11.search a post    
+![Home Page](https://github.com/Vignesh282004/blogfullapp/blob/main/Blog-App-Full/src/main/resources/static/images/search.png)
 
 
