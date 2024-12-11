@@ -19,6 +19,9 @@
 - **💬 Interaction**: Users can interact with content by posting and commenting, creating a fully dynamic social-blog experience.
 - ** Data Persistence**: Used MySQL to manage and persist user-generated content like posts and comments.
 - ** History Tracking**: Enabled users to view their own posts and comments, with a feature to track the activity history on posts.
+-  **If a User Comments on a post , other users can also see it and comment there and every post can be accesible by only the owner of the post**
+-  **the comments of the particular post can only be delted by the post owner**
+-  **A user who dont have Access can also access all posts**
 
 ---
 
@@ -39,7 +42,6 @@
 - **📈 Scalable Design**: Created a scalable and maintainable design by integrating with MySQL and adhering to RESTful principles.
 - **📝 Feature Development**: Successfully implemented user-friendly features such as post creation, comment sections, and real-time search.
 
----
 # Screenshots
 1. Resgister Page
 ![Home Page](https://github.com/Vignesh282004/blogfullapp/blob/main/Blog-App-Full/src/main/resources/static/images/register.png)
@@ -50,7 +52,7 @@
 4.post crated
 ![Home Page](https://github.com/Vignesh282004/blogfullapp/blob/main/Blog-App-Full/src/main/resources/static/images/postcreated.png)
 5.Error Validation
-![Home Page](https://github.com/Vignesh282004/blogfullapp/blob/main/Blog-App-Full/src/main/resources/static/images/validation.png)
+![Home Page](https://github.com/Vignesh282004/blogfullapp/blob/main/Blog-App-Full/src/main/resources/static/images/validationpost.png)
 6.ALl posts of a Particular User
 ![Home Page](https://github.com/Vignesh282004/blogfullapp/blob/main/Blog-App-Full/src/main/resources/static/images/allpostofauser.png)
 7.Add Comment to a Post
